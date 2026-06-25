@@ -11,7 +11,15 @@
 ---
  
 ## 🖼️ Galería de Muestra
-*(Próximamente verás mis GIFs de sprites animados aquí)*
+ 
+### 🏃‍♂️ Animaciones
+![Cosper Dance](CosperDance.gif)
+![Cosper Efect](CosperEfect.gif)
+![Efecto](Efect.gif)
+![Flor](Flower.gif)
+ 
+### 📋 Sprite Sheets
+![Cosper Sprite Sheet](CosperSpriteSheet.png)
  
 ---
  
